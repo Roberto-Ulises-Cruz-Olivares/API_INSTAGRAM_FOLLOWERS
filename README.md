@@ -22,3 +22,10 @@ $env:IG_DS_USER_ID="TOKEN_AQUI"
 
 - El usuario debe tener la cuenta pública o seguirte para poder extraer los followers.
 - Muchas peticiones al servidor de Instagram banearán tu ID durante 1 semana aproximadamente.
+
+## USO
+
+
+```powershell
+python nombre_codigo usuario
+```
